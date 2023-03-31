@@ -8,10 +8,10 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import all the required packages.
+2. Display the output values using graphical representation tools as scatter plot and graph.
+3. predict the values using predict() function.
+4. Display the predicted values and end the program
 
 ## Program:
 ```
