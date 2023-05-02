@@ -82,20 +82,21 @@ print("Population = 70000 , we predict a profit of $"+str(round(pred2,0)))
 ```
 
 ## Output:
-![Screenshot 2023-03-31 133122](https://user-images.githubusercontent.com/93427594/229069830-414f4a7b-9f97-4ada-8fcc-d20f3a9cc924.png)
+### Profit Prediction graph
+![image](https://user-images.githubusercontent.com/93427594/235610622-409dbfef-7e35-4447-b024-a67ef88891fa.png)
+### Compute Cost Value
+![image](https://user-images.githubusercontent.com/93427594/235610744-d7064657-d18d-428d-89d6-61ee0acaefba.png)
+### h(x) Value
+![image](https://user-images.githubusercontent.com/93427594/235610825-f2d4e44f-5b4d-49d2-945a-ec94240b4118.png)
+### Cost function using Gradient Descent Graph
+![image](https://user-images.githubusercontent.com/93427594/235610891-2aaad5e9-4ca5-4701-abdc-793b839ea0b7.png)
+### Profit Prediction Graph
+![image](https://user-images.githubusercontent.com/93427594/235611203-9ecca8cb-11d9-44a1-9189-d4a800c0bea0.png)
+### Profit for the Population 35,000
+![image](https://user-images.githubusercontent.com/93427594/235611260-ce342a12-d7ba-44b6-925f-79852d8d57d6.png)
+### Profit for the Population 70,000
+![image](https://user-images.githubusercontent.com/93427594/235611424-13f271c1-b9ea-4863-9e61-460c9fb2b3fe.png)
 
-![Screenshot 2023-03-31 133209](https://user-images.githubusercontent.com/93427594/229069863-ae2b5243-40d3-4f33-be13-0b12680fad44.png)
-
-![Screenshot 2023-03-31 133229](https://user-images.githubusercontent.com/93427594/229069890-ac6c9568-27b6-4673-9d7d-5307fa45bc7e.png)
-
-![Screenshot 2023-03-31 133309](https://user-images.githubusercontent.com/93427594/229069924-36678e5c-c596-41d5-96d7-19118a40d4f2.png)
-
-![Screenshot 2023-03-31 133345](https://user-images.githubusercontent.com/93427594/229069951-21fb8178-8aee-4e60-bab2-3012032e1cdc.png)
-
-![Screenshot 2023-03-31 133402](https://user-images.githubusercontent.com/93427594/229069969-f5d19f48-2c62-4acb-b638-bf5a17ce343c.png)
-
-![Screenshot 2023-03-31 135430](https://user-images.githubusercontent.com/93427594/229070000-0e8647e8-728d-46f2-8ebd-4a1f9ca3ecce.png)
-
-
+ 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
